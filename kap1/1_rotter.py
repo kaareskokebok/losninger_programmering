@@ -1,0 +1,10 @@
+import math
+print(math.sqrt(4))
+print(math.sqrt(9))
+print(math.sqrt(125-25)*2)
+print(math.sqrt(5))
+print("Kvadratroten til 144 er", math.sqrt(144))
+print("Kvadratroten til 1000 er", math.sqrt(1000))
+print("Kvadratroten til 0.25 er", math.sqrt(0.25))
+print("Kvadratroten til 50*3-50 er", math.sqrt(50*3-50))
+print("Kvadratroten til 6**2+8**2/3 er", math.sqrt(6**2+8**2/3))
