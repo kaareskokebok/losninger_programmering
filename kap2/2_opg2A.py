@@ -1,4 +1,4 @@
-F = 68
-C = (F-32) * 5/9
-print(F, "grader Fahrenheit er")
-print(C, "grader Celsius")
+f = 68
+c = (f-32)*5/9
+print(f, "grader Fahrenheit er")
+print(c, "grader celsius.")
